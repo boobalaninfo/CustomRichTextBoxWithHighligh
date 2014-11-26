@@ -1,0 +1,17 @@
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\bin\Debug\CustomRichTextBox.exe.config
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox.csprojResolveAssemblyReference.cache
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\MainWindow.baml
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\MainWindow.g.cs
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\App.g.cs
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox_MarkupCompile.cache
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox.g.resources
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox.Properties.Resources.resources
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox.csproj.GenerateResource.Cache
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\bin\Debug\CustomRichTextBox.exe
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\bin\Debug\CustomRichTextBox.pdb
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox.exe
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox.pdb
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\PORichTextBox.baml
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\PORichTextBox.g.cs
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\prokarma\documents\visual studio 2012\Projects\CustomRichTextBox\CustomRichTextBox\obj\Debug\CustomRichTextBox_MarkupCompile.lref

@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="CustomRichTextBox.UserControls.PORichTextBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" x:Name="PODRichBox"
+             d:DesignHeight="150" d:DesignWidth="300">
+    <Grid>
+        <RichTextBox Name="PODRichTxtBox"  FontSize="16" 
+                    Height="{Binding RTHeight, ElementName=PODRichBox}"
+                     BorderThickness="0" 
+                     IsHitTestVisible="{Binding IsEditMode, Mode=TwoWay, ElementName=PODRichBox}" 
+                     LostFocus="RichTextBox_LostFocus" SelectionChanged="PODRichTxtBox_SelectionChanged"                
+                    >      
+            <FlowDocument LineHeight=".5"  Name="rtDocument">               
+                <Paragraph Foreground="Green" Name="txtParagraph">                    
+                  
+                </Paragraph>
+                
+            </FlowDocument>
+        </RichTextBox>
+            
+    </Grid>
+</UserControl>
