@@ -40,22 +40,12 @@ Solution:
 To solve this complex issue, i'm end of with writing my own custom Richtext box
 
             <UserControls:PORichTextBox  
-
                 RTHeight="200" 
-
-                Text="Welcome to Greate India Club. We are here to deliver quality of software related information from all over the best software professionals working in various MNC companies. 
-You can also share and post your projects and your valuable articles by joining in this group. We are very happy to welcome all the students and professionals to create best community.
-Thanks and Regards,
-Boobalan Munusamy. "
-
+                Text="Welcome to Greate India Club. We are here to deliver quality of software related information from all over the best software professionals working in various MNC companies. You can also share and post your projects and your valuable articles by joining in this group. We are very happy to welcome all the students and professionals to create best community.Thanks and Regards,Boobalan Munusamy. "
                 NumberOfReadOnlyCharacter="50"
-
-                IsEditMode="{Binding IsRTBEnabled, Mode=TwoWay, 
-UpdateSourceTrigger=PropertyChanged, ElementName=MainPage }"
-
+                IsEditMode="{Binding IsRTBEnabled, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ElementName=MainPage }"
                 SearchText="{Binding Path=Text, ElementName=TxtSearch}"     
                 IsRedColorForReadOnly="True"
-                
                                          />
 
 
